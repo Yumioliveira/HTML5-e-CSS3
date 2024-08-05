@@ -99,6 +99,7 @@
 
     img#pc {
         margin: auto;
+        display: block;
     }
 
 
